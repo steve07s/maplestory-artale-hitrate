@@ -9658,5 +9658,61 @@
       false,
       false
     ]
+  },
+  "巨型戰鬥機": {
+    "id": "巨型戰鬥機",
+    "level": 45,
+    "hp": 125000,
+    "avoid": 26,
+    "exp": 4800,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鯨魚王": {
+    "id": "巨型戰鬥機",
+    "level": 45,
+    "hp": 125000,
+    "avoid": 26,
+    "exp": 4800,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
   }
 }
