@@ -60,15 +60,16 @@
 ## 📁 專案結構
 
 ```
-└── index.html          # 主頁面
-└── main.css            # 樣式檔（顏色、片段樣式）
-└── hitrate.js          # 命中率計算心計算符合職業切換
-└── Monsters/
-         └─ artale_all_zh.json  # 怪物資料
-└── image/
-         ├─ 青蛇.png
-         ├─ 綠水靈.png
-         └─ default.png
+maplestory-artale-hitrate/
+├── index.html          # 主頁面
+├── main.css            # 樣式檔（顏色、片段樣式）
+├── hitrate.js          # 命中率計算邏輯與職業切換
+├── Monsters/
+│   └── artale_all_zh.json  # 怪物資料
+├── image/
+│   ├── 青蛇.png
+│   ├── 綠水靈.png
+│   └── default.png
 ```
 
 ---
@@ -83,9 +84,10 @@
 
 ## 🧐 參考資料來源
 
-* [PTT - \[公式\] 命中率、迴避率 計算公式](https://www.ptt.cc/)
-* [MapleSaga 圖鉸](https://maplesaga.com/)
-* Artale 玩家社群、DC 討論資料
+* [https://github.com/MrSoupman/Maple-ACC-calculator](https://github.com/MrSoupman/Maple-ACC-calculator)
+* [https://github.com/a2983456456](https://github.com/a2983456456)
+* [Artale 怪物資料 Google Sheet](https://docs.google.com/spreadsheets/d/1xb6FhSGcM6EIj7aDcUmxZA9zVxLEw8xxXxxej5Tcrt4)
+* [巴哈姆特楓之谷懷舊板公式討論串](https://forum.gamer.com.tw/C.php?bsn=79354&snA=1321)
 
 ---
 
@@ -95,4 +97,4 @@ MIT License. 使用者可自由修改、引用本命中率計算器。若有錯�
 
 ---
 
-> Maintained by [PAPA#sesmegonxhic](https://discord.com/) · [artale.fun](https://artale.fun)
+> Maintained by [artale.fun](https://artale.fun)· [楓之谷.online](https://楓之谷.online)
