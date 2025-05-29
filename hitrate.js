@@ -39,62 +39,66 @@ function mobSelect(mobName) {
 }
 
 function doSomeMath() {
-    const mob = loadedjson[document.getElementById("mobs").value];
-    if (!mob) return;
-  
-    const monLevel = mob.level;
-    const monAvoid = mob.avoid;
-    const charLevel = parseInt(document.getElementById("level").value);
-    const charMain = parseInt(document.getElementById("mainstat").value);
-    const charLuk = parseInt(document.getElementById("luk").value || "0");
-    const targetRatePercent = parseFloat(document.getElementById("targetRate").value);
-  
-    let diff = Math.max(monLevel - charLevel, 0);
-    let acc100, accTarget;
-  
-    const applyRateColor = (rate) => {
-      const rateDisplay = document.getElementById("mobRate");
-      rateDisplay.classList.remove("low", "mid", "high");
-      if (rate < targetRatePercent) {
-        rateDisplay.classList.add("low");
-      } else if (rate < 99.9) {
-        rateDisplay.classList.add("mid");
-      } else {
-        rateDisplay.classList.add("high");
-      }
-    };
-  
-    if (document.getElementById("physical").checked) {
-      acc100 = (monAvoid * (55 + 2 * diff)) / 15;
-      accTarget = acc100 * (targetRatePercent / 100);
-  
-      const neededStat = accTarget * 0.5 + 1;
-      const actualRate = 100 * ((charMain - acc100 * 0.5) / (acc100 * 0.5));
-      const finalRate = Math.max(0, Math.min(100, actualRate));
-  
-      document.getElementById("mob1acc").value = neededStat.toFixed(2);
-      document.getElementById("mob100acc").value = acc100.toFixed(2);
-      const rateDisplay = document.getElementById("mobRate");
-      rateDisplay.innerText = finalRate.toFixed(2) + "%";
-      applyRateColor(finalRate);
-      return;
+  const mob = loadedjson[document.getElementById("mobs").value];
+  if (!mob) return;
+
+  const monLevel = mob.level;
+  const monAvoid = mob.avoid;
+  const charLevel = parseInt(document.getElementById("level").value);
+  const charMain = parseFloat(document.getElementById("mainstat").value);
+  const charLuk = parseFloat(document.getElementById("luk").value || "0");
+  const targetRatePercent = parseFloat(document.getElementById("targetRate").value);
+
+  const diff = Math.max(monLevel - charLevel, 0);
+  const rateDisplay = document.getElementById("mobRate");
+
+  const applyRateColor = (rate) => {
+    rateDisplay.classList.remove("low", "mid", "high");
+    if (rate < targetRatePercent) {
+      rateDisplay.classList.add("low");
+    } else if (rate < 99.9) {
+      rateDisplay.classList.add("mid");
+    } else {
+      rateDisplay.classList.add("high");
     }
-  
-    const curAcc = Math.floor((charMain + charLuk) * 0.1);
-    acc100 = (monAvoid + 1) * (1 + 0.04 * diff);
-    accTarget = acc100 * (targetRatePercent / 100);
-  
-    const acc1 = 0.41 * acc100;
-    const accPart = Math.min(Math.max((curAcc - acc1 + 1) / (acc100 - acc1 + 1), 0), 1);
-    const actualRate = (-0.7011618132 * Math.pow(accPart, 2) + 1.702139835 * accPart) * 100;
+  };
+
+  // 物理職業計算
+  if (document.getElementById("physical").checked) {
+    const acc100 = (monAvoid * (55 + 2 * diff)) / 15;
+    const accTarget = acc100 * (targetRatePercent / 100);
+
+    // 反推所需命中 stat
+    const neededStat = acc100 * 0.5 * (targetRatePercent / 100) + acc100 * 0.5;
+
+    // 依目前 stat 推回命中率
+    const actualRate = 100 * ((charMain - acc100 * 0.5) / (acc100 * 0.5));
     const finalRate = Math.max(0, Math.min(100, actualRate));
-  
-    document.getElementById("mob1acc").value = accTarget.toFixed(2);
+
+    document.getElementById("mob1acc").value = neededStat.toFixed(2);
     document.getElementById("mob100acc").value = acc100.toFixed(2);
-    const rateDisplay = document.getElementById("mobRate");
     rateDisplay.innerText = finalRate.toFixed(2) + "%";
     applyRateColor(finalRate);
+    return;
   }
+
+  // 法師職業計算
+  const curAcc = Math.floor((charMain + charLuk) * 0.1);
+  const acc100 = (monAvoid + 1) * (1 + 0.04 * diff);
+  const accTarget = acc100 * (targetRatePercent / 100);
+  const acc1 = 0.41 * acc100;
+
+  // 目前 stat 推回命中率
+  const accPart = Math.min(Math.max((curAcc - acc1 + 1) / (acc100 - acc1 + 1), 0), 1);
+  const actualRate = (-0.7011618132 * Math.pow(accPart, 2) + 1.702139835 * accPart) * 100;
+  const finalRate = Math.max(0, Math.min(100, actualRate));
+
+  document.getElementById("mob1acc").value = accTarget.toFixed(2);
+  document.getElementById("mob100acc").value = acc100.toFixed(2);
+  rateDisplay.innerText = finalRate.toFixed(2) + "%";
+  applyRateColor(finalRate);
+}
+
   
 
 document.getElementById("search").addEventListener("input", function () {
