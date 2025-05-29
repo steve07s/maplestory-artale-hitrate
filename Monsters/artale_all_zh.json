@@ -1,0 +1,9662 @@
+{
+  "嫩寶": {
+    "id": "嫩寶",
+    "level": 1,
+    "hp": 8,
+    "avoid": 0,
+    "exp": 3,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "綠水靈": {
+    "id": "綠水靈",
+    "level": 6,
+    "hp": 50,
+    "avoid": 1,
+    "exp": 10,
+    "weak": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "三眼章魚": {
+    "id": "三眼章魚",
+    "level": 12,
+    "hp": 200,
+    "avoid": 4,
+    "exp": 24,
+    "weak": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "藍菇菇": {
+    "id": "藍菇菇",
+    "level": 20,
+    "hp": 350,
+    "avoid": 7,
+    "exp": 32,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "木面怪人": {
+    "id": "木面怪人",
+    "level": 23,
+    "hp": 500,
+    "avoid": 10,
+    "exp": 42,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "蝴蝶精": {
+    "id": "蝴蝶精",
+    "level": 30,
+    "hp": 800,
+    "avoid": 25,
+    "exp": 120,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "風獨眼獸": {
+    "id": "風獨眼獸",
+    "level": 35,
+    "hp": 1250,
+    "avoid": 10,
+    "exp": 70,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鋼之肥肥": {
+    "id": "鋼之肥肥",
+    "level": 42,
+    "hp": 2200,
+    "avoid": 18,
+    "exp": 99,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "木乃伊犬": {
+    "id": "木乃伊犬",
+    "level": 47,
+    "hp": 2750,
+    "avoid": 18,
+    "exp": 117,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "石巨人": {
+    "id": "石巨人",
+    "level": 55,
+    "hp": 4000,
+    "avoid": 15,
+    "exp": 170,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "赤龍": {
+    "id": "赤龍",
+    "level": 60,
+    "hp": 6000,
+    "avoid": 22,
+    "exp": 220,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "月牙牛魔王": {
+    "id": "月牙牛魔王",
+    "level": 70,
+    "hp": 15000,
+    "avoid": 15,
+    "exp": 270,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "藍寶": {
+    "id": "藍寶",
+    "level": 2,
+    "hp": 15,
+    "avoid": 0,
+    "exp": 4,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "肥肥": {
+    "id": "肥肥",
+    "level": 7,
+    "hp": 75,
+    "avoid": 0,
+    "exp": 15,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "綠菇菇": {
+    "id": "綠菇菇",
+    "level": 15,
+    "hp": 250,
+    "avoid": 5,
+    "exp": 26,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "蝙蝠": {
+    "id": "蝙蝠",
+    "level": 20,
+    "hp": 300,
+    "avoid": 10,
+    "exp": 33,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "殭屍菇菇": {
+    "id": "殭屍菇菇",
+    "level": 24,
+    "hp": 500,
+    "avoid": 8,
+    "exp": 42,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "火肥肥": {
+    "id": "火肥肥",
+    "level": 32,
+    "hp": 1000,
+    "avoid": 10,
+    "exp": 60,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "紅螃蟹": {
+    "id": "紅螃蟹",
+    "level": 37,
+    "hp": 1950,
+    "avoid": 18,
+    "exp": 80,
+    "weak": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "骷髏犬": {
+    "id": "骷髏犬",
+    "level": 44,
+    "hp": 2450,
+    "avoid": 18,
+    "exp": 107,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "大幽靈": {
+    "id": "大幽靈",
+    "level": 48,
+    "hp": 2800,
+    "avoid": 20,
+    "exp": 120,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "巫婆": {
+    "id": "巫婆",
+    "level": 55,
+    "hp": 4000,
+    "avoid": 20,
+    "exp": 175,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "魔龍": {
+    "id": "魔龍",
+    "level": 62,
+    "hp": 5500,
+    "avoid": 20,
+    "exp": 240,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "骷髏指揮官": {
+    "id": "骷髏指揮官",
+    "level": 73,
+    "hp": 15300,
+    "avoid": 32,
+    "exp": 315,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "菇菇仔": {
+    "id": "菇菇仔",
+    "level": 2,
+    "hp": 20,
+    "avoid": 0,
+    "exp": 5,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "菇菇寶貝": {
+    "id": "菇菇寶貝",
+    "level": 8,
+    "hp": 80,
+    "avoid": 1,
+    "exp": 15,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "藍水靈": {
+    "id": "藍水靈",
+    "level": 15,
+    "hp": 240,
+    "avoid": 10,
+    "exp": 26,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "青蛇": {
+    "id": "青蛇",
+    "level": 21,
+    "hp": 285,
+    "avoid": 25,
+    "exp": 38,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "石面怪人": {
+    "id": "石面怪人",
+    "level": 24,
+    "hp": 600,
+    "avoid": 10,
+    "exp": 45,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鱷魚": {
+    "id": "鱷魚",
+    "level": 32,
+    "hp": 1200,
+    "avoid": 12,
+    "exp": 60,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "猴子": {
+    "id": "猴子",
+    "level": 37,
+    "hp": 1500,
+    "avoid": 20,
+    "exp": 77,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "土龍": {
+    "id": "土龍",
+    "level": 45,
+    "hp": 2700,
+    "avoid": 18,
+    "exp": 105,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "青螃蟹": {
+    "id": "青螃蟹",
+    "level": 48,
+    "hp": 3000,
+    "avoid": 20,
+    "exp": 128,
+    "weak": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "骷髏士兵": {
+    "id": "骷髏士兵",
+    "level": 57,
+    "hp": 4600,
+    "avoid": 25,
+    "exp": 190,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "骷髏士官": {
+    "id": "骷髏士官",
+    "level": 63,
+    "hp": 7500,
+    "avoid": 25,
+    "exp": 240,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "長槍牛魔王": {
+    "id": "長槍牛魔王",
+    "level": 75,
+    "hp": 18000,
+    "avoid": 30,
+    "exp": 350,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "紅寶": {
+    "id": "紅寶",
+    "level": 4,
+    "hp": 40,
+    "avoid": 0,
+    "exp": 8,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "緞帶肥肥": {
+    "id": "緞帶肥肥",
+    "level": 10,
+    "hp": 120,
+    "avoid": 2,
+    "exp": 20,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "斧木妖": {
+    "id": "斧木妖",
+    "level": 17,
+    "hp": 300,
+    "avoid": 5,
+    "exp": 30,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "刺菇菇": {
+    "id": "刺菇菇",
+    "level": 22,
+    "hp": 300,
+    "avoid": 7,
+    "exp": 35,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑肥肥": {
+    "id": "黑肥肥",
+    "level": 25,
+    "hp": 550,
+    "avoid": 8,
+    "exp": 42,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "幼魔精靈": {
+    "id": "幼魔精靈",
+    "level": 35,
+    "hp": 1700,
+    "avoid": 27,
+    "exp": 150,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "冰獨眼獸": {
+    "id": "冰獨眼獸",
+    "level": 40,
+    "hp": 2000,
+    "avoid": 15,
+    "exp": 85,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鋼之黑肥肥": {
+    "id": "鋼之黑肥肥",
+    "level": 45,
+    "hp": 2650,
+    "avoid": 20,
+    "exp": 115,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "青龍": {
+    "id": "青龍",
+    "level": 50,
+    "hp": 3200,
+    "avoid": 18,
+    "exp": 135,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑曜石巨人": {
+    "id": "黑曜石巨人",
+    "level": 58,
+    "hp": 4800,
+    "avoid": 18,
+    "exp": 200,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "冰龍": {
+    "id": "冰龍",
+    "level": 64,
+    "hp": 7700,
+    "avoid": 25,
+    "exp": 250,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "地獄巴洛古": {
+    "id": "地獄巴洛古",
+    "level": 100,
+    "hp": 100000,
+    "avoid": 40,
+    "exp": 3500,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "木妖": {
+    "id": "木妖",
+    "level": 4,
+    "hp": 40,
+    "avoid": 0,
+    "exp": 8,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑木妖": {
+    "id": "黑木妖",
+    "level": 10,
+    "hp": 250,
+    "avoid": 0,
+    "exp": 18,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "發芽木妖": {
+    "id": "發芽木妖",
+    "level": 19,
+    "hp": 330,
+    "avoid": 10,
+    "exp": 33,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑斧木妖": {
+    "id": "黑斧木妖",
+    "level": 22,
+    "hp": 550,
+    "avoid": 7,
+    "exp": 38,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "火獨眼獸": {
+    "id": "火獨眼獸",
+    "level": 27,
+    "hp": 720,
+    "avoid": 10,
+    "exp": 50,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小幽靈": {
+    "id": "小幽靈",
+    "level": 35,
+    "hp": 1200,
+    "avoid": 17,
+    "exp": 70,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "天使猴": {
+    "id": "天使猴",
+    "level": 40,
+    "hp": 1800,
+    "avoid": 25,
+    "exp": 90,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "烏龜": {
+    "id": "烏龜",
+    "level": 46,
+    "hp": 2550,
+    "avoid": 15,
+    "exp": 110,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑鱷魚": {
+    "id": "黑鱷魚",
+    "level": 52,
+    "hp": 3800,
+    "avoid": 20,
+    "exp": 170,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "混種石巨人": {
+    "id": "混種石巨人",
+    "level": 59,
+    "hp": 6000,
+    "avoid": 20,
+    "exp": 210,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑龍": {
+    "id": "黑龍",
+    "level": 68,
+    "hp": 13000,
+    "avoid": 27,
+    "exp": 265,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "紅寶王": {
+    "id": "紅寶王",
+    "level": 20,
+    "hp": 10000,
+    "avoid": 8,
+    "exp": 120,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "冥界幽靈": {
+    "id": "冥界幽靈",
+    "level": 56,
+    "hp": 130000,
+    "avoid": 999,
+    "exp": 180,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "巨居蟹": {
+    "id": "巨居蟹",
+    "level": 55,
+    "hp": 500000,
+    "avoid": 20,
+    "exp": 1210,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "蘑菇王": {
+    "id": "蘑菇王",
+    "level": 60,
+    "hp": 558000,
+    "avoid": 27,
+    "exp": 1200,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "巴洛古": {
+    "id": "巴洛古",
+    "level": 80,
+    "hp": 916000,
+    "avoid": 30,
+    "exp": 2000,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "樹妖王": {
+    "id": "樹妖王",
+    "level": 35,
+    "hp": 70000,
+    "avoid": 12,
+    "exp": 405,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "殭屍猴王": {
+    "id": "殭屍猴王",
+    "level": 50,
+    "hp": 350000,
+    "avoid": 20,
+    "exp": 410,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "沼澤巨鱷": {
+    "id": "沼澤巨鱷",
+    "level": 65,
+    "hp": 684000,
+    "avoid": 30,
+    "exp": 810,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "殭屍蘑菇王": {
+    "id": "殭屍蘑菇王",
+    "level": 65,
+    "hp": 786000,
+    "avoid": 30,
+    "exp": 1500,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小石球": {
+    "id": "小石球",
+    "level": 23,
+    "hp": 600,
+    "avoid": 8,
+    "exp": 40,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "幼黃獨角獅": {
+    "id": "幼黃獨角獅",
+    "level": 33,
+    "hp": 1100,
+    "avoid": 15,
+    "exp": 65,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "月光精靈": {
+    "id": "月光精靈",
+    "level": 45,
+    "hp": 2500,
+    "avoid": 24,
+    "exp": 105,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "藍獨角獅": {
+    "id": "藍獨角獅",
+    "level": 53,
+    "hp": 4200,
+    "avoid": 25,
+    "exp": 160,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "利堤": {
+    "id": "利堤",
+    "level": 32,
+    "hp": 1000,
+    "avoid": 13,
+    "exp": 60,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小雪球": {
+    "id": "小雪球",
+    "level": 50,
+    "hp": 3700,
+    "avoid": 25,
+    "exp": 135,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "礦山殭屍": {
+    "id": "礦山殭屍",
+    "level": 57,
+    "hp": 4500,
+    "avoid": 25,
+    "exp": 190,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "黑吉拉": {
+    "id": "黑吉拉",
+    "level": 68,
+    "hp": 13000,
+    "avoid": 26,
+    "exp": 265,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑吉拉戰車": {
+    "id": "黑吉拉戰車",
+    "level": 82,
+    "hp": 29000,
+    "avoid": 30,
+    "exp": 0,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "石球": {
+    "id": "石球",
+    "level": 30,
+    "hp": 900,
+    "avoid": 12,
+    "exp": 55,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      false,
+      true
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "幼藍獨角獅": {
+    "id": "幼藍獨角獅",
+    "level": 33,
+    "hp": 1100,
+    "avoid": 15,
+    "exp": 70,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑食人花": {
+    "id": "黑食人花",
+    "level": 47,
+    "hp": 2700,
+    "avoid": 15,
+    "exp": 115,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑格里芬": {
+    "id": "黑格里芬",
+    "level": 73,
+    "hp": 15500,
+    "avoid": 28,
+    "exp": 320,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "黑利堤": {
+    "id": "黑利堤",
+    "level": 33,
+    "hp": 1100,
+    "avoid": 15,
+    "exp": 65,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "火精靈": {
+    "id": "火精靈",
+    "level": 51,
+    "hp": 3600,
+    "avoid": 28,
+    "exp": 142,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "白狼": {
+    "id": "白狼",
+    "level": 58,
+    "hp": 5800,
+    "avoid": 25,
+    "exp": 220,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "地獄獵犬": {
+    "id": "地獄獵犬",
+    "level": 72,
+    "hp": 15200,
+    "avoid": 30,
+    "exp": 295,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "煉獄獵犬": {
+    "id": "煉獄獵犬",
+    "level": 90,
+    "hp": 45000,
+    "avoid": 38,
+    "exp": 1800,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "火石球": {
+    "id": "火石球",
+    "level": 30,
+    "hp": 900,
+    "avoid": 12,
+    "exp": 55,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "幼紅獨角獅": {
+    "id": "幼紅獨角獅",
+    "level": 33,
+    "hp": 1100,
+    "avoid": 15,
+    "exp": 65,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "日光精靈": {
+    "id": "日光精靈",
+    "level": 52,
+    "hp": 4000,
+    "avoid": 22,
+    "exp": 155,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小企鵝王": {
+    "id": "小企鵝王",
+    "level": 35,
+    "hp": 1400,
+    "avoid": 18,
+    "exp": 75,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "野狼": {
+    "id": "野狼",
+    "level": 55,
+    "hp": 4600,
+    "avoid": 20,
+    "exp": 170,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "企鵝王": {
+    "id": "企鵝王",
+    "level": 60,
+    "hp": 7200,
+    "avoid": 30,
+    "exp": 220,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "狼人": {
+    "id": "狼人",
+    "level": 75,
+    "hp": 16000,
+    "avoid": 25,
+    "exp": 350,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "冰石球": {
+    "id": "冰石球",
+    "level": 30,
+    "hp": 900,
+    "avoid": 12,
+    "exp": 55,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "星光精靈": {
+    "id": "星光精靈",
+    "level": 35,
+    "hp": 1300,
+    "avoid": 21,
+    "exp": 72,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "紅獨角獅": {
+    "id": "紅獨角獅",
+    "level": 53,
+    "hp": 4200,
+    "avoid": 25,
+    "exp": 160,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "獨眼蝙蝠": {
+    "id": "獨眼蝙蝠",
+    "level": 41,
+    "hp": 1600,
+    "avoid": 28,
+    "exp": 95,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑色小雪球": {
+    "id": "黑色小雪球",
+    "level": 56,
+    "hp": 4400,
+    "avoid": 27,
+    "exp": 180,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑企鵝王": {
+    "id": "黑企鵝王",
+    "level": 64,
+    "hp": 7800,
+    "avoid": 31,
+    "exp": 250,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "雪吉拉戰車": {
+    "id": "雪吉拉戰車",
+    "level": 78,
+    "hp": 20000,
+    "avoid": 30,
+    "exp": 0,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "食人花": {
+    "id": "食人花",
+    "level": 42,
+    "hp": 2100,
+    "avoid": 10,
+    "exp": 99,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黃獨角獅": {
+    "id": "黃獨角獅",
+    "level": 53,
+    "hp": 4200,
+    "avoid": 25,
+    "exp": 160,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小獵犬": {
+    "id": "小獵犬",
+    "level": 43,
+    "hp": 2300,
+    "avoid": 25,
+    "exp": 102,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "殭屍": {
+    "id": "殭屍",
+    "level": 57,
+    "hp": 4500,
+    "avoid": 25,
+    "exp": 190,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "雪吉拉": {
+    "id": "雪吉拉",
+    "level": 65,
+    "hp": 11000,
+    "avoid": 24,
+    "exp": 255,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "白狼人": {
+    "id": "白狼人",
+    "level": 80,
+    "hp": 27000,
+    "avoid": 28,
+    "exp": 850,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "雪山魔女": {
+    "id": "雪山魔女",
+    "level": 64,
+    "hp": 598100,
+    "avoid": 999,
+    "exp": 250,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "雪毛怪人": {
+    "id": "雪毛怪人",
+    "level": 90,
+    "hp": 1291000,
+    "avoid": 38,
+    "exp": 5200,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "厄運死神": {
+    "id": "厄運死神",
+    "level": 65,
+    "hp": 438000,
+    "avoid": 999,
+    "exp": 255,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "艾利傑": {
+    "id": "艾利傑",
+    "level": 83,
+    "hp": "461000\n(+537200)",
+    "avoid": 30,
+    "exp": 2800,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "褐色發條熊": {
+    "id": "褐色發條熊",
+    "level": 30,
+    "hp": 950,
+    "avoid": 12,
+    "exp": 60,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "妖魔": {
+    "id": "妖魔",
+    "level": 37,
+    "hp": 1750,
+    "avoid": 20,
+    "exp": 82,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "苔蘚蝸牛": {
+    "id": "苔蘚蝸牛",
+    "level": 42,
+    "hp": 2400,
+    "avoid": 12,
+    "exp": 102,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "苔蘚菇菇": {
+    "id": "苔蘚菇菇",
+    "level": 55,
+    "hp": 4400,
+    "avoid": 20,
+    "exp": 175,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小丑柏非": {
+    "id": "小丑柏非",
+    "level": 61,
+    "hp": 7400,
+    "avoid": 23,
+    "exp": 230,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "貝爾芬": {
+    "id": "貝爾芬",
+    "level": 74,
+    "hp": 16000,
+    "avoid": 27,
+    "exp": 340,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "多立百烈": {
+    "id": "多立百烈",
+    "level": 87,
+    "hp": 35000,
+    "avoid": 28,
+    "exp": 1500,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "怨靈女巫": {
+    "id": "怨靈女巫",
+    "level": 99,
+    "hp": 60000,
+    "avoid": 38,
+    "exp": 2800,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黃蜘蛛": {
+    "id": "黃蜘蛛",
+    "level": 23,
+    "hp": 450,
+    "avoid": 10,
+    "exp": 42,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑色發條鼠": {
+    "id": "黑色發條鼠",
+    "level": 34,
+    "hp": 1150,
+    "avoid": 14,
+    "exp": 70,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "機器章魚王": {
+    "id": "機器章魚王",
+    "level": 38,
+    "hp": 1850,
+    "avoid": 18,
+    "exp": 85,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "葛雷士兵": {
+    "id": "葛雷士兵",
+    "level": 42,
+    "hp": 2300,
+    "avoid": 20,
+    "exp": 102,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "泥人領導者": {
+    "id": "泥人領導者",
+    "level": 47,
+    "hp": 11000,
+    "avoid": 16,
+    "exp": 720,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "三尾狐": {
+    "id": "三尾狐",
+    "level": 56,
+    "hp": 4500,
+    "avoid": 28,
+    "exp": 185,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "粉紅發條熊": {
+    "id": "粉紅發條熊",
+    "level": 32,
+    "hp": 1050,
+    "avoid": 14,
+    "exp": 65,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "木馬士兵": {
+    "id": "木馬士兵",
+    "level": 39,
+    "hp": 1920,
+    "avoid": 18,
+    "exp": 92,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "紅色機器人": {
+    "id": "紅色機器人",
+    "level": 44,
+    "hp": 2450,
+    "avoid": 18,
+    "exp": 105,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "猿人肥肥": {
+    "id": "猿人肥肥",
+    "level": 57,
+    "hp": 4500,
+    "avoid": 20,
+    "exp": 200,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "幽魂發條熊": {
+    "id": "幽魂發條熊",
+    "level": 63,
+    "hp": 7600,
+    "avoid": 25,
+    "exp": 245,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑暗冥鐘": {
+    "id": "黑暗冥鐘",
+    "level": 76,
+    "hp": 18000,
+    "avoid": 27,
+    "exp": 370,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "怨靈發條熊": {
+    "id": "怨靈發條熊",
+    "level": 85,
+    "hp": 32000,
+    "avoid": 27,
+    "exp": 1300,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "怨靈發條熊隊長": {
+    "id": "怨靈發條熊隊長",
+    "level": 89,
+    "hp": 40000,
+    "avoid": 28,
+    "exp": 1720,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "達納托斯": {
+    "id": "達納托斯",
+    "level": 108,
+    "hp": 70000,
+    "avoid": 38,
+    "exp": 4100,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "紅蜘蛛": {
+    "id": "紅蜘蛛",
+    "level": 28,
+    "hp": 780,
+    "avoid": 12,
+    "exp": 55,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "機器章魚": {
+    "id": "機器章魚",
+    "level": 35,
+    "hp": 1300,
+    "avoid": 15,
+    "exp": 72,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "特威德": {
+    "id": "特威德",
+    "level": 39,
+    "hp": 1900,
+    "avoid": 17,
+    "exp": 85,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "培利堤安": {
+    "id": "培利堤安",
+    "level": 44,
+    "hp": 2480,
+    "avoid": 18,
+    "exp": 105,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "葛雷元老": {
+    "id": "葛雷元老",
+    "level": 49,
+    "hp": 9000,
+    "avoid": 25,
+    "exp": 580,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "白色發條鼠": {
+    "id": "白色發條鼠",
+    "level": 32,
+    "hp": 1000,
+    "avoid": 13,
+    "exp": 65,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "發條楓葉鼠": {
+    "id": "發條楓葉鼠",
+    "level": 36,
+    "hp": 1400,
+    "avoid": 18,
+    "exp": 78,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "變身小鬼怪": {
+    "id": "變身小鬼怪",
+    "level": 60,
+    "hp": 7000,
+    "avoid": 25,
+    "exp": 330,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "玩具鴨": {
+    "id": "玩具鴨",
+    "level": 34,
+    "hp": 1200,
+    "avoid": 16,
+    "exp": 70,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鼬鼠鬧鐘": {
+    "id": "鼬鼠鬧鐘",
+    "level": 40,
+    "hp": 1900,
+    "avoid": 20,
+    "exp": 95,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "妖魔隊長": {
+    "id": "妖魔隊長",
+    "level": 46,
+    "hp": 2600,
+    "avoid": 24,
+    "exp": 115,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小丑瑞奇": {
+    "id": "小丑瑞奇",
+    "level": 66,
+    "hp": 9400,
+    "avoid": 26,
+    "exp": 260,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "特貝爾芬": {
+    "id": "特貝爾芬",
+    "level": 77,
+    "hp": 19000,
+    "avoid": 28,
+    "exp": 385,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "維京": {
+    "id": "維京",
+    "level": 93,
+    "hp": 50000,
+    "avoid": 37,
+    "exp": 2100,
+    "weak": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "通道守門人": {
+    "id": "通道守門人",
+    "level": 108,
+    "hp": 78000,
+    "avoid": 37,
+    "exp": 4300,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "兔子鼓手": {
+    "id": "兔子鼓手",
+    "level": 30,
+    "hp": 950,
+    "avoid": 12,
+    "exp": 60,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黃色戰鬥機": {
+    "id": "黃色戰鬥機",
+    "level": 36,
+    "hp": 1350,
+    "avoid": 17,
+    "exp": 77,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "葛雷族人": {
+    "id": "葛雷族人",
+    "level": 40,
+    "hp": 1930,
+    "avoid": 18,
+    "exp": 95,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "積木泥人王": {
+    "id": "積木泥人王",
+    "level": 45,
+    "hp": 2600,
+    "avoid": 14,
+    "exp": 110,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "機器人堤安": {
+    "id": "機器人堤安",
+    "level": 54,
+    "hp": 13500,
+    "avoid": 20,
+    "exp": 980,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "月妙": {
+    "id": "月妙",
+    "level": 45,
+    "hp": 2600,
+    "avoid": 20,
+    "exp": 110,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "藍色鬼怪": {
+    "id": "藍色鬼怪",
+    "level": 70,
+    "hp": 25000,
+    "avoid": 15,
+    "exp": 400,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鼬鼠": {
+    "id": "鼬鼠",
+    "level": 34,
+    "hp": 1100,
+    "avoid": 14,
+    "exp": 70,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "藍色機器人": {
+    "id": "藍色機器人",
+    "level": 41,
+    "hp": 2000,
+    "avoid": 15,
+    "exp": 99,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "遠古木妖": {
+    "id": "遠古木妖",
+    "level": 46,
+    "hp": 2600,
+    "avoid": 15,
+    "exp": 112,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "幽魂發條熊隊長": {
+    "id": "幽魂發條熊隊長",
+    "level": 67,
+    "hp": 11000,
+    "avoid": 27,
+    "exp": 265,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "百烈": {
+    "id": "百烈",
+    "level": 83,
+    "hp": 30000,
+    "avoid": 27,
+    "exp": 1100,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "幽魂女巫": {
+    "id": "幽魂女巫",
+    "level": 95,
+    "hp": 53000,
+    "avoid": 37,
+    "exp": 2300,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "邱布": {
+    "id": "邱布",
+    "level": 31,
+    "hp": 800,
+    "avoid": 10,
+    "exp": 62,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "粉紅色戰鬥機": {
+    "id": "粉紅色戰鬥機",
+    "level": 37,
+    "hp": 1700,
+    "avoid": 18,
+    "exp": 82,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "馬堤安": {
+    "id": "馬堤安",
+    "level": 41,
+    "hp": 2080,
+    "avoid": 16,
+    "exp": 99,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "葛雷隊長": {
+    "id": "葛雷隊長",
+    "level": 45,
+    "hp": 2550,
+    "avoid": 21,
+    "exp": 110,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小虎": {
+    "id": "小虎",
+    "level": 50,
+    "hp": 3800,
+    "avoid": 28,
+    "exp": 140,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "綠色鬼怪": {
+    "id": "綠色鬼怪",
+    "level": 70,
+    "hp": 25000,
+    "avoid": 15,
+    "exp": 400,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "發條貓熊": {
+    "id": "發條貓熊",
+    "level": 36,
+    "hp": 1400,
+    "avoid": 16,
+    "exp": 77,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "進化妖魔": {
+    "id": "進化妖魔",
+    "level": 41,
+    "hp": 2050,
+    "avoid": 22,
+    "exp": 99,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "石蟲": {
+    "id": "石蟲",
+    "level": 51,
+    "hp": 3600,
+    "avoid": 15,
+    "exp": 142,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "冥鐘": {
+    "id": "冥鐘",
+    "level": 70,
+    "hp": 15000,
+    "avoid": 26,
+    "exp": 270,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "巨人維京": {
+    "id": "巨人維京",
+    "level": 98,
+    "hp": 58000,
+    "avoid": 38,
+    "exp": 2600,
+    "weak": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "藍色戰鬥機": {
+    "id": "藍色戰鬥機",
+    "level": 38,
+    "hp": 1830,
+    "avoid": 19,
+    "exp": 85,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "積木泥人": {
+    "id": "積木泥人",
+    "level": 42,
+    "hp": 2400,
+    "avoid": 12,
+    "exp": 102,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "梅卡堤安": {
+    "id": "梅卡堤安",
+    "level": 46,
+    "hp": 2600,
+    "avoid": 20,
+    "exp": 110,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "虎傑": {
+    "id": "虎傑",
+    "level": 53,
+    "hp": 4500,
+    "avoid": 25,
+    "exp": 165,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黃色鬼怪": {
+    "id": "黃色鬼怪",
+    "level": 70,
+    "hp": 25000,
+    "avoid": 15,
+    "exp": 400,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "咕咕鐘": {
+    "id": "咕咕鐘",
+    "level": 59,
+    "hp": 415000,
+    "avoid": 20,
+    "exp": 650,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "葛雷金剛": {
+    "id": "葛雷金剛",
+    "level": 65,
+    "hp": 734000,
+    "avoid": 29,
+    "exp": 940,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "書生幽靈": {
+    "id": "書生幽靈",
+    "level": 62,
+    "hp": 680000,
+    "avoid": 999,
+    "exp": 240,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "九尾妖狐": {
+    "id": "九尾妖狐",
+    "level": 70,
+    "hp": 999999,
+    "avoid": 25,
+    "exp": 1300,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "海膽": {
+    "id": "海膽",
+    "level": 22,
+    "hp": 400,
+    "avoid": 7,
+    "exp": 36,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "花鯰魚": {
+    "id": "花鯰魚",
+    "level": 29,
+    "hp": 790,
+    "avoid": 10,
+    "exp": 58,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "河豚": {
+    "id": "河豚",
+    "level": 40,
+    "hp": 1900,
+    "avoid": 18,
+    "exp": 95,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "刺鰭魚": {
+    "id": "刺鰭魚",
+    "level": 85,
+    "hp": 17000,
+    "avoid": 29,
+    "exp": 1400,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "致命烏賊怪": {
+    "id": "致命烏賊怪",
+    "level": 97,
+    "hp": 49000,
+    "avoid": 37,
+    "exp": 2500,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "綠海馬": {
+    "id": "綠海馬",
+    "level": 23,
+    "hp": 500,
+    "avoid": 9,
+    "exp": 42,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "活跳蝦": {
+    "id": "活跳蝦",
+    "level": 30,
+    "hp": 900,
+    "avoid": 12,
+    "exp": 55,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "毒河豚": {
+    "id": "毒河豚",
+    "level": 40,
+    "hp": 1910,
+    "avoid": 18,
+    "exp": 97,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "刺鰭魚之屋": {
+    "id": "刺鰭魚之屋",
+    "level": 90,
+    "hp": 40500,
+    "avoid": 35,
+    "exp": 0,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鯊魚": {
+    "id": "鯊魚",
+    "level": 100,
+    "hp": 56000,
+    "avoid": 38,
+    "exp": 3000,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "獨角尼莫": {
+    "id": "獨角尼莫",
+    "level": 24,
+    "hp": 500,
+    "avoid": 8,
+    "exp": 45,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "蒙面河豚": {
+    "id": "蒙面河豚",
+    "level": 32,
+    "hp": 1000,
+    "avoid": 14,
+    "exp": 65,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "短牙海豹": {
+    "id": "短牙海豹",
+    "level": 42,
+    "hp": 2300,
+    "avoid": 20,
+    "exp": 102,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "骨骸魚": {
+    "id": "骨骸魚",
+    "level": 92,
+    "hp": 42500,
+    "avoid": 38,
+    "exp": 2000,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "尖鼻鯊魚": {
+    "id": "尖鼻鯊魚",
+    "level": 102,
+    "hp": 58500,
+    "avoid": 38,
+    "exp": 3100,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黃金海馬": {
+    "id": "黃金海馬",
+    "level": 25,
+    "hp": 550,
+    "avoid": 8,
+    "exp": 42,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "潛水企鵝王": {
+    "id": "潛水企鵝王",
+    "level": 36,
+    "hp": 1430,
+    "avoid": 18,
+    "exp": 80,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "長牙海豹": {
+    "id": "長牙海豹",
+    "level": 43,
+    "hp": 2400,
+    "avoid": 15,
+    "exp": 103,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "烏賊怪": {
+    "id": "烏賊怪",
+    "level": 94,
+    "hp": 46000,
+    "avoid": 37,
+    "exp": 2200,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "泡泡魚": {
+    "id": "泡泡魚",
+    "level": 28,
+    "hp": 740,
+    "avoid": 10,
+    "exp": 52,
+    "weak": [
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "粉紅小海豹": {
+    "id": "粉紅小海豹",
+    "level": 38,
+    "hp": 1850,
+    "avoid": 18,
+    "exp": 85,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "海怒斯": {
+    "id": "海怒斯",
+    "level": 110,
+    "hp": 65000000,
+    "avoid": 14,
+    "exp": 1300000,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "母砂兔": {
+    "id": "母砂兔",
+    "level": 20,
+    "hp": 350,
+    "avoid": 8,
+    "exp": 32,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "公砂兔": {
+    "id": "公砂兔",
+    "level": 21,
+    "hp": 400,
+    "avoid": 9,
+    "exp": 34,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小仙人掌": {
+    "id": "小仙人掌",
+    "level": 22,
+    "hp": 450,
+    "avoid": 8,
+    "exp": 37,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "方塊水靈": {
+    "id": "方塊水靈",
+    "level": 32,
+    "hp": 1000,
+    "avoid": 12,
+    "exp": 62,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑妖苗": {
+    "id": "黑妖苗",
+    "level": 35,
+    "hp": 1400,
+    "avoid": 18,
+    "exp": 75,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑妖苗三兄弟": {
+    "id": "黑妖苗三兄弟",
+    "level": 38,
+    "hp": 1850,
+    "avoid": 18,
+    "exp": 85,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "沙漠蛇": {
+    "id": "沙漠蛇",
+    "level": 23,
+    "hp": 500,
+    "avoid": 9,
+    "exp": 42,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "耳罩蜥蜴": {
+    "id": "耳罩蜥蜴",
+    "level": 24,
+    "hp": 550,
+    "avoid": 9,
+    "exp": 45,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "沙漠地鼠": {
+    "id": "沙漠地鼠",
+    "level": 24,
+    "hp": 600,
+    "avoid": 10,
+    "exp": 55,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鋼鐵穆太": {
+    "id": "鋼鐵穆太",
+    "level": 42,
+    "hp": 2400,
+    "avoid": 12,
+    "exp": 102,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "強化鋼鐵穆太": {
+    "id": "強化鋼鐵穆太",
+    "level": 45,
+    "hp": 2550,
+    "avoid": 20,
+    "exp": 110,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鋰礦穆太": {
+    "id": "鋰礦穆太",
+    "level": 47,
+    "hp": 2750,
+    "avoid": 18,
+    "exp": 117,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "仙人掌": {
+    "id": "仙人掌",
+    "level": 25,
+    "hp": 550,
+    "avoid": 9,
+    "exp": 47,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "圍巾蜥蜴": {
+    "id": "圍巾蜥蜴",
+    "level": 27,
+    "hp": 700,
+    "avoid": 10,
+    "exp": 50,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "成年仙人掌": {
+    "id": "成年仙人掌",
+    "level": 28,
+    "hp": 750,
+    "avoid": 10,
+    "exp": 55,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "強化鋰礦穆太": {
+    "id": "強化鋰礦穆太",
+    "level": 50,
+    "hp": 3000,
+    "avoid": 15,
+    "exp": 135,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "洛伊德": {
+    "id": "洛伊德",
+    "level": 54,
+    "hp": 4400,
+    "avoid": 18,
+    "exp": 168,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "奈歐洛伊德": {
+    "id": "奈歐洛伊德",
+    "level": 58,
+    "hp": 5600,
+    "avoid": 20,
+    "exp": 205,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "狐蒙": {
+    "id": "狐蒙",
+    "level": 29,
+    "hp": 780,
+    "avoid": 10,
+    "exp": 58,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "沙漠毒蠍": {
+    "id": "沙漠毒蠍",
+    "level": 29,
+    "hp": 780,
+    "avoid": 10,
+    "exp": 58,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "禿鷹": {
+    "id": "禿鷹",
+    "level": 30,
+    "hp": 870,
+    "avoid": 13,
+    "exp": 60,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "燒杯怪": {
+    "id": "燒杯怪",
+    "level": 65,
+    "hp": 11000,
+    "avoid": 24,
+    "exp": 255,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "賽伊迪": {
+    "id": "賽伊迪",
+    "level": 68,
+    "hp": 13000,
+    "avoid": 26,
+    "exp": 265,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "哈門庫魯": {
+    "id": "哈門庫魯",
+    "level": 73,
+    "hp": 15500,
+    "avoid": 28,
+    "exp": 320,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "沙漠矮人": {
+    "id": "沙漠矮人",
+    "level": 32,
+    "hp": 1000,
+    "avoid": 12,
+    "exp": 60,
+    "weak": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "紅砂矮人": {
+    "id": "紅砂矮人",
+    "level": 32,
+    "hp": 1000,
+    "avoid": 12,
+    "exp": 62,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "砂巨人": {
+    "id": "砂巨人",
+    "level": 40,
+    "hp": 1800,
+    "avoid": 17,
+    "exp": 95,
+    "weak": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "D．洛伊": {
+    "id": "D．洛伊",
+    "level": 75,
+    "hp": 16000,
+    "avoid": 25,
+    "exp": 350,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "哈摩斯庫拉": {
+    "id": "哈摩斯庫拉",
+    "level": 80,
+    "hp": 27000,
+    "avoid": 28,
+    "exp": 850,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "仙人長老": {
+    "id": "仙人長老",
+    "level": 38,
+    "hp": 118000,
+    "avoid": 18,
+    "exp": 445,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "自動警備系統": {
+    "id": "自動警備系統",
+    "level": 75,
+    "hp": 889500,
+    "avoid": 999,
+    "exp": 350,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "奇美拉": {
+    "id": "奇美拉",
+    "level": 85,
+    "hp": 986000,
+    "avoid": 27,
+    "exp": 3000,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "紅藍雙怪": {
+    "id": "紅藍雙怪",
+    "level": 63,
+    "hp": 556000,
+    "avoid": 999,
+    "exp": 245,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "迪特和洛依": {
+    "id": "迪特和洛依",
+    "level": 80,
+    "hp": 994000,
+    "avoid": 999,
+    "exp": 850,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "松鼠": {
+    "id": "松鼠",
+    "level": 40,
+    "hp": 1900,
+    "avoid": 15,
+    "exp": 95,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "訓練用稻草人": {
+    "id": "訓練用稻草人",
+    "level": 50,
+    "hp": 3000,
+    "avoid": 15,
+    "exp": 135,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "柔道貓熊": {
+    "id": "柔道貓熊",
+    "level": 60,
+    "hp": 6500,
+    "avoid": 22,
+    "exp": 225,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "罈壺": {
+    "id": "罈壺",
+    "level": 47,
+    "hp": 2700,
+    "avoid": 18,
+    "exp": 117,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鱷魚克洛克": {
+    "id": "鱷魚克洛克",
+    "level": 64,
+    "hp": 7800,
+    "avoid": 25,
+    "exp": 250,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "豪豬": {
+    "id": "豪豬",
+    "level": 41,
+    "hp": 2000,
+    "avoid": 15,
+    "exp": 99,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "訓練用木頭人": {
+    "id": "訓練用木頭人",
+    "level": 51,
+    "hp": 3200,
+    "avoid": 18,
+    "exp": 142,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "蟠猴": {
+    "id": "蟠猴",
+    "level": 62,
+    "hp": 7500,
+    "avoid": 25,
+    "exp": 240,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "蔘罈壺": {
+    "id": "蔘罈壺",
+    "level": 48,
+    "hp": 2800,
+    "avoid": 20,
+    "exp": 123,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "船員克魯": {
+    "id": "船員克魯",
+    "level": 68,
+    "hp": 12500,
+    "avoid": 26,
+    "exp": 265,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑豪豬": {
+    "id": "黑豪豬",
+    "level": 43,
+    "hp": 2400,
+    "avoid": 15,
+    "exp": 103,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "書靈": {
+    "id": "書靈",
+    "level": 55,
+    "hp": 4500,
+    "avoid": 20,
+    "exp": 175,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "喵仙": {
+    "id": "喵仙",
+    "level": 66,
+    "hp": 9000,
+    "avoid": 24,
+    "exp": 255,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "巨大深山人蔘": {
+    "id": "巨大深山人蔘",
+    "level": 62,
+    "hp": 520000,
+    "avoid": "?",
+    "exp": "?",
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "大副凱丁": {
+    "id": "大副凱丁",
+    "level": 70,
+    "hp": 15000,
+    "avoid": 26,
+    "exp": 282,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "青花蛇": {
+    "id": "青花蛇",
+    "level": 45,
+    "hp": 2550,
+    "avoid": 20,
+    "exp": 110,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "功夫熊": {
+    "id": "功夫熊",
+    "level": 56,
+    "hp": 4800,
+    "avoid": 18,
+    "exp": 185,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "紅花蛇": {
+    "id": "紅花蛇",
+    "level": 45,
+    "hp": 2550,
+    "avoid": 20,
+    "exp": 110,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "梅花鹿": {
+    "id": "梅花鹿",
+    "level": 58,
+    "hp": 5600,
+    "avoid": 20,
+    "exp": 205,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "仙人娃娃": {
+    "id": "仙人娃娃",
+    "level": 59,
+    "hp": "?",
+    "avoid": "?",
+    "exp": "?",
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "肯德熊": {
+    "id": "肯德熊",
+    "level": 71,
+    "hp": 914000,
+    "avoid": 30,
+    "exp": 1580,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "喵怪仙人": {
+    "id": "喵怪仙人",
+    "level": 59,
+    "hp": 1009000,
+    "avoid": 999,
+    "exp": 220,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "萊西": {
+    "id": "萊西",
+    "level": 70,
+    "hp": 14500,
+    "avoid": 25,
+    "exp": 270,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "邪惡侏儒怪": {
+    "id": "邪惡侏儒怪",
+    "level": 76,
+    "hp": 18000,
+    "avoid": 28,
+    "exp": 370,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "惡魔綿羊": {
+    "id": "惡魔綿羊",
+    "level": 88,
+    "hp": 37000,
+    "avoid": 28,
+    "exp": 1620,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "暗黑三角龍": {
+    "id": "暗黑三角龍",
+    "level": 93,
+    "hp": 49000,
+    "avoid": 37,
+    "exp": 2100,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "藍翼龍": {
+    "id": "藍翼龍",
+    "level": 101,
+    "hp": 57000,
+    "avoid": 38,
+    "exp": 3050,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "化石龍": {
+    "id": "化石龍",
+    "level": 110,
+    "hp": 80000,
+    "avoid": 38,
+    "exp": 4500,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "橡木甲蟲": {
+    "id": "橡木甲蟲",
+    "level": 72,
+    "hp": 15200,
+    "avoid": 30,
+    "exp": 295,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "變種侏儒怪": {
+    "id": "變種侏儒怪",
+    "level": 78,
+    "hp": 20000,
+    "avoid": 30,
+    "exp": 400,
+    "weak": [
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "暗黑半人馬": {
+    "id": "暗黑半人馬",
+    "level": 88,
+    "hp": 37000,
+    "avoid": 28,
+    "exp": 1600,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "獨角迅猛龍": {
+    "id": "獨角迅猛龍",
+    "level": 95,
+    "hp": 50000,
+    "avoid": 37,
+    "exp": 2280,
+    "weak": [
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑翼龍": {
+    "id": "黑翼龍",
+    "level": 103,
+    "hp": 60000,
+    "avoid": 38,
+    "exp": 3150,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "化石龍長老": {
+    "id": "化石龍長老",
+    "level": 113,
+    "hp": 85000,
+    "avoid": 38,
+    "exp": 4750,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "侏儒怪": {
+    "id": "侏儒怪",
+    "level": 72,
+    "hp": 15000,
+    "avoid": 25,
+    "exp": 295,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "哈維": {
+    "id": "哈維",
+    "level": 80,
+    "hp": 27000,
+    "avoid": 28,
+    "exp": 850,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "寒冰半人馬": {
+    "id": "寒冰半人馬",
+    "level": 88,
+    "hp": 37000,
+    "avoid": 28,
+    "exp": 1600,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "進化迅猛龍": {
+    "id": "進化迅猛龍",
+    "level": 97,
+    "hp": 55000,
+    "avoid": 37,
+    "exp": 2500,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "雙刀龍戰士": {
+    "id": "雙刀龍戰士",
+    "level": 105,
+    "hp": 67000,
+    "avoid": 45,
+    "exp": 3700,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑暗萊西": {
+    "id": "黑暗萊西",
+    "level": 74,
+    "hp": 15500,
+    "avoid": 27,
+    "exp": 340,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "血腥哈維": {
+    "id": "血腥哈維",
+    "level": 83,
+    "hp": 30000,
+    "avoid": 27,
+    "exp": 1100,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "火焰半人馬": {
+    "id": "火焰半人馬",
+    "level": 88,
+    "hp": 37000,
+    "avoid": 28,
+    "exp": 1600,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "赤翼龍": {
+    "id": "赤翼龍",
+    "level": 97,
+    "hp": 53000,
+    "avoid": 37,
+    "exp": 2500,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "幼年龍": {
+    "id": "幼年龍",
+    "level": 105,
+    "hp": 68000,
+    "avoid": 38,
+    "exp": 3800,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "金屬甲蟲": {
+    "id": "金屬甲蟲",
+    "level": 76,
+    "hp": 18000,
+    "avoid": 27,
+    "exp": 370,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "邪惡綿羊": {
+    "id": "邪惡綿羊",
+    "level": 85,
+    "hp": 32000,
+    "avoid": 27,
+    "exp": 1420,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "藍色雙角龍": {
+    "id": "藍色雙角龍",
+    "level": 90,
+    "hp": 40000,
+    "avoid": 37,
+    "exp": 1780,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "短刃龍戰士": {
+    "id": "短刃龍戰士",
+    "level": 100,
+    "hp": 56000,
+    "avoid": 45,
+    "exp": 3000,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "幼龍保護者": {
+    "id": "幼龍保護者",
+    "level": 110,
+    "hp": 80000,
+    "avoid": 38,
+    "exp": 8050,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "噴火龍": {
+    "id": "噴火龍",
+    "level": 105,
+    "hp": 3700000,
+    "avoid": 39,
+    "exp": 13500,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "寒霜冰龍": {
+    "id": "寒霜冰龍",
+    "level": 120,
+    "hp": 56845000,
+    "avoid": 41,
+    "exp": 47355,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "格瑞芬多": {
+    "id": "格瑞芬多",
+    "level": 105,
+    "hp": 3700000,
+    "avoid": 39,
+    "exp": 13500,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "時間之眼": {
+    "id": "時間之眼",
+    "level": 80,
+    "hp": 24000,
+    "avoid": 30,
+    "exp": 850,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "悔恨的祭司": {
+    "id": "悔恨的祭司",
+    "level": 106,
+    "hp": 71000,
+    "avoid": 37,
+    "exp": 3350,
+    "weak": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "忘卻的神官": {
+    "id": "忘卻的神官",
+    "level": 124,
+    "hp": 123000,
+    "avoid": 43,
+    "exp": 6150,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "回憶的祭司": {
+    "id": "回憶的祭司",
+    "level": 91,
+    "hp": 41000,
+    "avoid": 37,
+    "exp": 1900,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "悔恨的神官": {
+    "id": "悔恨的神官",
+    "level": 109,
+    "hp": 79000,
+    "avoid": 38,
+    "exp": 3600,
+    "weak": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "忘卻的守護兵": {
+    "id": "忘卻的守護兵",
+    "level": 128,
+    "hp": 133000,
+    "avoid": 45,
+    "exp": 6670,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "回憶的神官": {
+    "id": "回憶的神官",
+    "level": 94,
+    "hp": 45000,
+    "avoid": 37,
+    "exp": 2200,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "悔恨的守護兵": {
+    "id": "悔恨的守護兵",
+    "level": 113,
+    "hp": 90000,
+    "avoid": 39,
+    "exp": 4500,
+    "weak": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "忘卻的守護隊長": {
+    "id": "忘卻的守護隊長",
+    "level": 131,
+    "hp": 141000,
+    "avoid": 47,
+    "exp": 7060,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "回憶守護兵": {
+    "id": "回憶守護兵",
+    "level": 98,
+    "hp": 53000,
+    "avoid": 37,
+    "exp": 2600,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "悔恨的守護隊長": {
+    "id": "悔恨的守護隊長",
+    "level": 116,
+    "hp": 99000,
+    "avoid": 40,
+    "exp": 4960,
+    "weak": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "回憶守護隊長": {
+    "id": "回憶守護隊長",
+    "level": 101,
+    "hp": 59000,
+    "avoid": 37,
+    "exp": 3100,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "忘卻的祭司": {
+    "id": "忘卻的祭司",
+    "level": 121,
+    "hp": 115000,
+    "avoid": 41,
+    "exp": 5750,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "多多": {
+    "id": "多多",
+    "level": 121,
+    "hp": 11800000,
+    "avoid": 42,
+    "exp": 20850,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "萊伊卡": {
+    "id": "萊伊卡",
+    "level": 141,
+    "hp": 18600000,
+    "avoid": 49,
+    "exp": 32865,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "利里諾斯": {
+    "id": "利里諾斯",
+    "level": 131,
+    "hp": 15200000,
+    "avoid": 47,
+    "exp": 26850,
+    "weak": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "烏鴉": {
+    "id": "烏鴉",
+    "level": 25,
+    "hp": 550,
+    "avoid": 10,
+    "exp": 42,
+    "weak": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "雪女": {
+    "id": "雪女",
+    "level": 100,
+    "hp": 68000,
+    "avoid": 34,
+    "exp": 3200,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "雲狐": {
+    "id": "雲狐",
+    "level": 30,
+    "hp": 920,
+    "avoid": 12,
+    "exp": 55,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "貍貓": {
+    "id": "貍貓",
+    "level": 30,
+    "hp": 900,
+    "avoid": 12,
+    "exp": 55,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "河童": {
+    "id": "河童",
+    "level": 60,
+    "hp": 7100,
+    "avoid": 22,
+    "exp": 220,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "燈籠鬼": {
+    "id": "燈籠鬼",
+    "level": 40,
+    "hp": 1920,
+    "avoid": 25,
+    "exp": 93,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "遊魂": {
+    "id": "遊魂",
+    "level": 60,
+    "hp": 7100,
+    "avoid": 25,
+    "exp": 220,
+    "weak": [
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "雪狐": {
+    "id": "雪狐",
+    "level": 45,
+    "hp": 2600,
+    "avoid": 20,
+    "exp": 110,
+    "weak": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "竹刀武士": {
+    "id": "竹刀武士",
+    "level": 68,
+    "hp": 864500,
+    "avoid": 999,
+    "exp": 265,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "藍色蘑菇王": {
+    "id": "藍色蘑菇王",
+    "level": 90,
+    "hp": 1864000,
+    "avoid": 45,
+    "exp": 5500,
+    "weak": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "白雞": {
+    "id": "白雞",
+    "level": 15,
+    "hp": 230,
+    "avoid": 5,
+    "exp": 28,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "牛": {
+    "id": "牛",
+    "level": 33,
+    "hp": 1200,
+    "avoid": 12,
+    "exp": 66,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "大眼鴨": {
+    "id": "大眼鴨",
+    "level": 22,
+    "hp": 380,
+    "avoid": 7,
+    "exp": 37,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑山羊": {
+    "id": "黑山羊",
+    "level": 35,
+    "hp": 1250,
+    "avoid": 12,
+    "exp": 71,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "綿羊": {
+    "id": "綿羊",
+    "level": 25,
+    "hp": 550,
+    "avoid": 8,
+    "exp": 42,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑綿羊": {
+    "id": "黑綿羊",
+    "level": 37,
+    "hp": 1500,
+    "avoid": 18,
+    "exp": 79,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "山羊": {
+    "id": "山羊",
+    "level": 30,
+    "hp": 900,
+    "avoid": 12,
+    "exp": 58,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "犁杖牛": {
+    "id": "犁杖牛",
+    "level": 38,
+    "hp": 1800,
+    "avoid": 20,
+    "exp": 86,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "蜈蚣大王": {
+    "id": "蜈蚣大王",
+    "level": 50,
+    "hp": 284260,
+    "avoid": 27,
+    "exp": 425,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "青蛙": {
+    "id": "青蛙",
+    "level": 8,
+    "hp": 75,
+    "avoid": 1,
+    "exp": 17,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "赤蟾蜍": {
+    "id": "赤蟾蜍",
+    "level": 28,
+    "hp": 720,
+    "avoid": 12,
+    "exp": 58,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "鬥雞": {
+    "id": "鬥雞",
+    "level": 20,
+    "hp": 340,
+    "avoid": 7,
+    "exp": 33,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "紅色蜥蜴": {
+    "id": "紅色蜥蜴",
+    "level": 40,
+    "hp": 1920,
+    "avoid": 15,
+    "exp": 95,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黃色蜥蜴": {
+    "id": "黃色蜥蜴",
+    "level": 25,
+    "hp": 500,
+    "avoid": 8,
+    "exp": 46,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "大蛇王": {
+    "id": "大蛇王",
+    "level": 60,
+    "hp": 6000,
+    "avoid": 22,
+    "exp": 230,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小狗仔": {
+    "id": "小狗仔",
+    "level": 23,
+    "hp": 400,
+    "avoid": 7,
+    "exp": 40,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小丑猴": {
+    "id": "小丑猴",
+    "level": 40,
+    "hp": 1850,
+    "avoid": 25,
+    "exp": 92,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小企鵝王娃娃機": {
+    "id": "小企鵝王娃娃機",
+    "level": 50,
+    "hp": 3800,
+    "avoid": 15,
+    "exp": 152,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "帥氣狗仔": {
+    "id": "帥氣狗仔",
+    "level": 25,
+    "hp": 550,
+    "avoid": 10,
+    "exp": 46,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "凶狠狗仔": {
+    "id": "凶狠狗仔",
+    "level": 42,
+    "hp": 2300,
+    "avoid": 20,
+    "exp": 105,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "小企鵝王玩偶": {
+    "id": "小企鵝王玩偶",
+    "level": 36,
+    "hp": 1400,
+    "avoid": 10,
+    "exp": 81,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "草莓珍奶": {
+    "id": "草莓珍奶",
+    "level": 38,
+    "hp": 1900,
+    "avoid": 15,
+    "exp": 90,
+    "weak": [
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "飆車猴": {
+    "id": "飆車猴",
+    "level": 47,
+    "hp": 3100,
+    "avoid": 28,
+    "exp": 119,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "珍珠奶茶": {
+    "id": "珍珠奶茶",
+    "level": 38,
+    "hp": 1900,
+    "avoid": 15,
+    "exp": 90,
+    "weak": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    "strong": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "雪吉拉娃娃機": {
+    "id": "雪吉拉娃娃機",
+    "level": 50,
+    "hp": 3800,
+    "avoid": 15,
+    "exp": 150,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "變身娃娃機": {
+    "id": "變身娃娃機",
+    "level": 60,
+    "hp": 1500,
+    "avoid": 10,
+    "exp": 0,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "抹茶珍奶": {
+    "id": "抹茶珍奶",
+    "level": 38,
+    "hp": 1900,
+    "avoid": 15,
+    "exp": 90,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "雪吉拉玩偶": {
+    "id": "雪吉拉玩偶",
+    "level": 36,
+    "hp": 1550,
+    "avoid": 10,
+    "exp": 81,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "黑輪王": {
+    "id": "黑輪王",
+    "level": 85,
+    "hp": 1459550,
+    "avoid": 40,
+    "exp": 4230,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "拉圖斯": {
+    "id": "拉圖斯",
+    "level": 125,
+    "hp": 70000000,
+    "avoid": 40,
+    "exp": 970000,
+    "weak": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "strong": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "immune": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  }
+}

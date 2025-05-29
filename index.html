@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <title>Artale 命中率計算器</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/@simonwep/pure-css-radio-buttons@1.1.1/dist/radio.min.css" rel="stylesheet">
+  <link href="./main.css" rel="stylesheet">
+
+</head>
+<body>
+  <h1>Artale 命中率計算器</h1>
+  <div class="container">
+    <div class="section-row">
+      <div class="section">
+        <div class="section-title">怪物搜尋與選擇</div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="search">搜尋怪物</label>
+            <input id="search" placeholder="輸入關鍵字...">
+          </div>
+          <div class="form-group" style="flex:2;">
+            <label for="mobs">怪物清單</label>
+            <select id="mobs" size="6"></select>
+          </div>
+        </div>
+      </div>
+
+      <div class="section" id="monster-section" style="display:none;">
+        <div class="section-title">怪物資訊</div>
+        <div class="monster-box">
+          <div style="flex: 1; text-align: center">
+            <img id="mobPic" class="monster-image" src="" alt="Monster">
+          </div>
+          <div class="monster-info">
+            <div>等級：<span id="mobLevel"></span></div>
+            <div>閃避：<span id="mobAvoid"></span></div>
+            <div>HP：<span id="HP"></span></div>
+            <div>EXP：<span id="EXP"></span></div>
+            <div>弱點：<span id="weak"></span></div>
+            <div>強抗：<span id="strong"></span></div>
+            <div>免疫：<span id="immune"></span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-row">
+      <div class="section">
+        <div class="section-title">角色屬性</div>
+        <div class="form-row">
+          <div class="form-group">
+            <label for="level">等級</label>
+            <input type="number" id="level" min="1" max="200" value="1">
+          </div>
+          <div class="form-group">
+            <label id="dmgType" for="mainstat">命中</label>
+            <input type="number" id="mainstat" min="0" max="999" value="4">
+          </div>
+          <div class="form-group" id="lukBlock" style="display:none;">
+            <label for="luk">幸運</label>
+            <input type="number" id="luk" min="0" max="999" value="4">
+          </div>
+        </div>
+        <div class="form-group">
+          <label>攻擊方式</label>
+          <div class="attack-options">
+            <label><input type="radio" name="type" id="physical" checked> 物理</label>
+            <label><input type="radio" name="type" id="magical"> 魔法</label>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">命中率結果</div>
+        <div class="result-box">
+          <div class="result-info">
+            <div class="form-group">
+              <label for="targetRate">目標命中率 (%)</label>
+              <input id="targetRate" type="number" value="80" min="1" max="100">
+            </div>
+            <div class="form-group">
+              <label for="mob1acc">所需命中值</label>
+              <input id="mob1acc" disabled>
+            </div>
+            <div class="form-group">
+              <label for="mob100acc">100% 命中需求</label>
+              <input id="mob100acc" disabled>
+            </div>
+          </div>
+          <div class="result-value" id="mobRate">請輸入資料計算</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="hitrate.js"></script>
+</body>
+</html>

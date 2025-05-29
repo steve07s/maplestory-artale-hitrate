@@ -1,0 +1,16 @@
+# 不要上傳系統檔案
+.DS_Store
+Thumbs.db
+
+# node.js（如果未來加入開發工具）
+node_modules/
+dist/
+.env
+*.log
+
+# VSCode 設定檔
+.vscode/
+
+# 本地瀏覽器快取或 build 結果
+.cache/
+out/
