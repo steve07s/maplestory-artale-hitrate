@@ -66,12 +66,13 @@ function doSomeMath() {
   
     if (document.getElementById("physical").checked) {
       acc100 = (monAvoid * (55 + 2 * diff)) / 15;
-      accTarget = acc100 * (targetRatePercent / 100);
-  
-      const neededStat = accTarget * 0.5 + 1;
+
       const actualRate = 100 * ((charMain - acc100 * 0.5) / (acc100 * 0.5));
       const finalRate = Math.max(0, Math.min(100, actualRate));
-  
+
+      accTarget = acc100 * 0.5 * (1 + (targetRatePercent / 100));
+      const neededStat = Math.max(acc100 * 0.5 + 1, Math.min(acc100, accTarget));
+
       document.getElementById("mob1acc").value = neededStat.toFixed(2);
       document.getElementById("mob100acc").value = acc100.toFixed(2);
       const rateDisplay = document.getElementById("mobRate");
@@ -82,14 +83,16 @@ function doSomeMath() {
   
     const curAcc = Math.floor((charMain + charLuk) * 0.1);
     acc100 = (monAvoid + 1) * (1 + 0.04 * diff);
-    accTarget = acc100 * (targetRatePercent / 100);
   
     const acc1 = 0.41 * acc100;
     const accPart = Math.min(Math.max((curAcc - acc1 + 1) / (acc100 - acc1 + 1), 0), 1);
     const actualRate = (-0.7011618132 * Math.pow(accPart, 2) + 1.702139835 * accPart) * 100;
     const finalRate = Math.max(0, Math.min(100, actualRate));
-  
-    document.getElementById("mob1acc").value = accTarget.toFixed(2);
+
+    accTarget = (1.702139835 - Math.sqrt(2.89728001789 - 2.8046472528 * (targetRatePercent / 100))) / 1.4023236264;
+    const neededStat = Math.max(acc1, Math.min(acc100, accTarget * (acc100 - acc1 + 1) + acc1 - 1));
+
+    document.getElementById("mob1acc").value = neededStat.toFixed(2);
     document.getElementById("mob100acc").value = acc100.toFixed(2);
     const rateDisplay = document.getElementById("mobRate");
     rateDisplay.innerText = finalRate.toFixed(2) + "%";
